@@ -1,4 +1,5 @@
-# श्री रुद्रम् | శ్రీ రుద్రం | Sree Rudram
+# श्री रुद्र प्रश्नः | శ్రీ రుద్ర ప్రశ్నః | śrī rudra praśnaḥ
+
 
 # Contents
 
@@ -9,28 +10,43 @@
 
 ## <a name="Introduction"></a>Introduction
 
+Sri Rudra Prasna also known as Rudradhyaya, Satarudriya, Rudra Namakam & Chamakam and Rudram. Sri Rudram is a part of Krishna Yajurveda's Taittiriya Samhita. Rudra Prasna finds a place in Shukla Yajurveda also. 
+
 Three commentators- Sayana, Bhattabhaskara and Abhinavasankara- have written commentaries for Sri Rudram. This present explanation has been written in accordance with these three commentaries.
 
-There are a total of 11 Anuvakams (sections) in Sri Rudram. In the first Anuvakam, the angry Sri Rudra is pacified. From the second to the ninth Anuvakams, Sri Rudra is eulogised in many ways and obeisance paid to him. In the last two Anuvakams, prayers are offered to Sri Rudra and Rudraganas.
+There are a total of 11 Anuvakams (sections) in Sri Rudram. 
+
+- In the first Anuvakam, the angry Sri Rudra is pacified. 
+- From the second to the ninth Anuvakams, Sri Rudra is eulogised in many ways and obeisance paid to him. 
+- In the last two Anuvakams, prayers are offered to Sri Rudra and Rudraganas.
 
 
 ## <a name="Anuvaakam1"></a>Anuvaakam - 1
 
 ### Mantra - 1
 
-```
+```Sanskrit
 नम॑स्ते रुद्र म॒न्यव॑ उ॒तोत॒ इष॑वे॒ नमः॑ ।
 नम॑स्ते अस्तु॒ धन्व॑ने बा॒हुभ्या॑मु॒त ते॒ नमः॑ ॥ १
 ```
 
 #### Meaning
-रुद्र- Parameswara! ते- your, मन्यवे- to anger, नमः- prostration.  
 
-उतो -Further,  ते-your,  इषवे- to the arrow, नमः -prostration. 
-
-ते- your, धन्वने- to the bow,  नमः अस्तु- may my prostration be.  
-
-उत- Further, ते- your,  बाहुभ्यां- to the two arms, नमः- prostration.
+- रुद्र = Parameswara! 
+- ते = your
+- मन्यवे = to anger
+- नमः = prostration
+- उतो = Further
+- ते = your
+- इषवे = to the arrow
+- नमः = prostration
+- ते = your
+- धन्वने = to the bow
+- नमः अस्तु = may my prostration be
+- उत = Further
+- ते = your
+- बाहुभ्यां = to the two arms
+- नमः = prostration.
 
 
 #### Explanation 
@@ -43,7 +59,7 @@ Parameswara's arrow etc. are to be worshipped like Devatas. Hence praying and pa
 
 It is said that it is necessary to know the Rishi, chandas and Devata of every mantra, Abhinasankara's commentary describes these details. For this first mantra, Rishi is Aatreya, chandas is Anushtup and Devata is Sri Rudra.
 
-Dhyanam:
+##### Dhyanam:
 
 आकर्णकृष्टे धनुषि ज्वलन्तीं देवीमिषुं भास्वति सन्दधानम् ।
 
@@ -53,7 +69,6 @@ Dhyanam:
 
 This mantra will be fully efficacious to one who practises Praajaapatya krichchram and chants the mantra 11000 times. By doing circumambulation and prostration, while chanting this mantra, Parameswara's grace, destruction of sins and leadership in society will result. The other practices using this mantra are described in works like 'Rudra Kalpaarnavam'.
 
----
 
 ### Mantra-2
 
@@ -62,15 +77,30 @@ This mantra will be fully efficacious to one who practises Praajaapatya krichchr
 शि॒वा श॑र॒व्या॑ या तव॒ तया॑ नो रुद्र मृडय ॥ 2
 ```
 
-Meaning:   रुद्र-Parameswara!   ते- your,   या इषुः- which arrow, शिवतमा- most auspiciously, बभूव- exists,  ते- your,  धनुः- which bow,   शिवं बभूव- is auspicious,  तव- your, या शरव्या- which quiver, शिवा- is auspicious,   तया- with that arrow, bow and quiver,  नः- us,   मृडय- make us happy.
+#### Meaning:
+- रुद्र = Parameswara!
+- ते = your
+- या इषुः = which arrow
+- शिवतमा = most auspiciously
+- बभूव = exists
+- ते = your
+- धनुः = which bow
+- शिवं बभूव = is auspicious
+- तव = your
+- या शरव्या = which quiver
+- शिवा = is auspicious
+- तया = with that arrow
+- bow and quiver
+- नः = us
+- मृडय = make us happy
 
-####Explanation
+#### Explanation
 
 As usage of ‘lit’ is done in present tense also in Veda, Bhattabhaskara’s commentary states that for the word ‘babhuva’, the present tense meaning of ‘exists’ should be understood. The other two commentaries state the meaning: ‘Please grant me happiness from the arrows etc., which were worshipped by me in the previous mantra and became calm-formed.’ On this basis, the term ‘babhuva’ is interpreted in past tense.
 
 The Rishi for this second mantra is Aathreya; chandas is Anushtup; Devata- Sambhu.
 
-*Dhyanam:*
+##### Dhyanam:
 
 ध्यायेद्देवं सस्मितं स्यन्दनस्थं  देव्या सार्धं तेजसा दीप्यमानम्  ।
 
@@ -80,7 +110,6 @@ The Rishi for this second mantra is Aathreya; chandas is Anushtup; Devata- Sambh
 
 If this mantra is chanted constantly for twelve days excluding nights and without obstructing Nitya karmas (daily obligatory duties), one will get the full efficacy of the mantra. This is a Mahamantra meant for driving away famine and national calamities.
 
----
 
 ### Mantra 3
 
@@ -91,7 +120,19 @@ If this mantra is chanted constantly for twelve days excluding nights and withou
 
 #### Meaning 
 
-रुद्र- Parameswara! ते- your, अघोरा-  that which does not terrify (with weapons),   शिवा-  granting worldly pleasures,  अपापकाशिनी- granting Atmagnana, the cause of the happiness of Liberation, या- which,  तनूः-  body,  तया- that,  शन्तमया- granting the highest happiness of Liberation,  तनुवा- with the body,  गिरिशन्त-  Parameswara, who, being the object indicated by Vedas, grant all pleasures right upto Liberation,   नः- us,  अभिचाकशीहि- grant the knowledge of Atmatatva (Self-Principle).
+- रुद्र = Parameswara! 
+- ते = your
+- अघोरा = that which does not terrify (with weapons)
+- शिवा = granting worldly pleasures
+- अपापकाशिनी = granting Atmagnana the cause of the happiness of Liberation
+- या = which
+- तनूः = body
+- तया = that
+- शन्तमया = granting the highest happiness of Liberation
+- तनुवा = with the body
+- गिरिशन्त = Parameswara, who, being the object indicated by Vedas, grant all pleasures right upto Liberation
+- नः = us
+- अभिचाकशीहि = grant the knowledge of Atmatatva (Self-Principle)
 
 #### Explanation
 
@@ -129,7 +170,7 @@ Dhyanam:
 
 Chanting and homam of this mantra are prescribed for the peace of Pasus (Jivas).
 
----
+
 ### Mantra 4
 
 ```
@@ -139,9 +180,19 @@ Chanting and homam of this mantra are prescribed for the peace of Pasus (Jivas).
 
 #### Meaning
 
-गिरिशन्त- Parameswara!   यां इषुं-  which arrow,    अस्तवे- for discharging on sinners,   हस्ते-  in the hand,   बिभर्षि-  hold,    गिरित्र-  Resident and protector of Kailasa,      तां- that arrow,        शिवां कुरु- make auspicious,  पुरुषं-  men belonging to me,    जगत्- other moving and non-moving properties,    मा हिंसीः- do not harm.
+- गिरिशन्त = Parameswara! 
+- यां इषुं = which arrow
+- अस्तवे = for discharging on sinners
+- हस्ते = in the hand
+- बिभर्षि = hold
+- गिरित्र = Resident and protector of Kailasa
+- तां- that arrow
+- शिवां कुरु = make auspicious
+- पुरुषं = men belonging to me
+- जगत् = other moving and non-moving properties
+- मा हिंसीः = do not harm
 
-Explanation:
+#### Explanation:
 
 Having prayed for attaining fulfillment of desires in second and third mantras, the Rishi prays now in this fourth mantra for freedom from adversities. When Iswara has been addressed as ‘Girisantha’, the purport of using the additional term of address of ‘Giritra’ has been described in Abhinavasankara’s commentary as follows: “Sri Parameswara has assured that if one worships him now, though he might have erred in the past, Iswara will grant him a virtuous mind and protect him. ‘Giri’ is the word of assurance; ‘trayate’ means he protects, being firm in his assurance.”
 
@@ -154,7 +205,17 @@ Having prayed for attaining fulfillment of desires in second and third mantras, 
 
 #### Meaning
 
-गिरिश-  Parameswara, residing in Kailasa!    त्वा-  you,  अच्छा-  to attain,  शिवेन वचसा-  with auspicious  words (of praise),  यथा- in which manner, नः- our,  सर्वं जगत् इत्- these moving objects like men and animals,  अयक्ष्मं- free from disease,   सुमनाः-  with good minds, i.e. being comfortable,    असत्- will become, in that manner,   वदामसि- we pray.
+- गिरिश = Parameswara, residing in Kailasa! 
+- त्वा = you
+- अच्छा = to attain
+- शिवेन वचसा = with auspicious  words (of praise)
+- यथा  = in which manner
+- नः = our
+- सर्वं जगत् इत् = these moving objects like men and animals
+- अयक्ष्मं = free from disease
+- सुमनाः = with good minds, i.e. being comfortable
+- असत् = will become, in that manner
+- वदामसि = we pray.
 
 #### Explanation:
 
@@ -166,7 +227,7 @@ Achcha-  This word is ‘Avyaya’ (an indeclinable particle in Samskrit grammar
 
 The fourth and fifth mantras together form one mantra; the Rishi is Gautama; chandas, Gayatri; Devata, Rudra.
 
-Dhyanam:
+#### Dhyanam:
 
 सांग्रामिकेन वपुषा प्रविराजमानं देवं पुरत्रयविनाशनमन्दहासम् ।
 
@@ -175,8 +236,6 @@ Dhyanam:
 “One should meditate on Sri Parameswara as shining with the apparels of war worn on the body, with a gentle smile which destroys the Three Cities, intending to destroy the demons, having Meru mountain as bow in his hand, seated in the chariot of Earth and the enemy of Three Cities.”
 
 This sloka brings out the appearance and attitude of Sri Parameswara during the destruction of the Tripura. If these two mantras are recited constantly for 21 days, the full power of the mantras will be attained. Evils like untimely death etc. will go away by chanting this mantra.
-
----
 
 ### Mantra  6
 
@@ -187,9 +246,14 @@ This sloka brings out the appearance and attitude of Sri Parameswara during the 
 
 #### Meaning:
 
-अधिवक्ता-  One who speaks in favour of devotees,  प्रथमः- the best,   दैव्यः- the in-dweller among even Devas,     भिषक्-  Parameswara, who is the doctor, who treats all troubles including sin, disease, samsara, poverty etc.,   सर्वान् अहींश्च-  serpent, scorpion etc. which trouble directly,    सर्वाश्च यातुधान्यः-  demons, ghosts etc. who trouble indirectly,    जम्भयन्-   destroying,     अध्यवोचत्-
-
-may speak in my favour.
+- अधिवक्ता = One who speaks in favour of devotees
+- प्रथमः = the best
+- दैव्यः = the in-dweller among even Devas
+- भिषक् = Parameswara, who is the doctor, who treats all troubles including sin, disease, samsara, poverty etc.
+- सर्वान् अहींश्च = serpent, scorpion etc. which trouble directly
+- सर्वाश्च यातुधान्यः = demons, ghosts etc. who trouble indirectly
+- जम्भयन् = destroying
+- अध्यवोचत् = may speak in my favour
 
 #### Explanation:
 
@@ -235,7 +299,7 @@ Chanting this mantra is capable of completely destroying miseries from Rakshasas
 
 Rishi of this mantra is Kanva; Chandas is Anushtup; Devata is Sambhu.
 
-Dhyanam:
+##### Dhyanam:
 
 चन्द्रार्धमौलिं कालारिं व्यालयज्ञोपवीतिनम्  ।
 
@@ -245,15 +309,31 @@ Dhyanam:
 
 Reciting this mantra 50,000 times will confer its full power on the person who recites.
 
-Mantra  7
+### Mantra  7
 
-असौ यस्ताम्रो अरुण उत बभ्रुस्सुमङ्गलः  ।
+```
+अ॒सौ यस्ता॒म्रो अ॑रु॒ण उ॒त ब॒भ्रुस्सु॑म॒ङ्गलः॑ ।
+ये चे॒माग्ं रु॒द्रा अ॒भितो॑ दि॒क्षु श्रि॒ताः स॑हस्र॒शोऽवैषा॒ग्ं॒ हेड॑ ईमहे ॥ ७
+```
 
-ये चे माँ रुद्रा अभितो दिक्षु श्रिताः सहस्रशो वैषाँ हेड ईमहे ॥
+- यः = Parameswara, who has been described in the previous mantras
+- ताम्रः = red-coloured (at dawn)
+- अरुणः- of a bit less deep red-colour after dawn
+- उत = further
+- बभ्रुः = golden-coloured (after some time)
+- सुमङ्गलः = very auspicious
+- असौ = shines as Surya, directly perceptible
+- इमां = to this earth
+- अभितः = on all four sides
+- दिक्षु = in the directions
+- श्रिताः = staying
+- सहस्रशः = in thousands
+- ये च रुद्राः = whosoever Rudras are
+- एषां = of all these
+- हेडः = anger
+- अव ईमहे = get rid of by praise, prostration etc.
 
-यः-  Parameswara, who has been described in the previous mantras,  ताम्रः-  red-coloured (at dawn),   अरुणः- of a bit less deep red-colour after dawn,  उत-  further,     बभ्रुः- golden-coloured (after some time),     सुमङ्गलः-   very auspicious,  असौ-  shines as Surya, directly perceptible.    इमां-    to this earth,   अभितः-  on all four sides,     दिक्षु-     in the directions,   श्रिताः-  staying, सहस्रशः-   in thousands,     ये च रुद्राः-   whosoever Rudras are,   एषां-    of all these,     हेडः-  anger,         अव  ईमहे-   get rid of by praise, prostration etc.        
-
-Explanation:
+#### Explanation:
 
 Parameswara has eight forms- Earth, Water, Agni, Vayu, Akasa, Chandra, Surya and Yajamana (individual sacrificer). Of them, Parameswara of the form of Surya is praised in the 7th and 8th mantras. The zone around Surya appears red-coloured at dawn time, a less deep red in colour after some time and golden later. Surya mandalam is praised as ‘Sumangala:’ –very auspicious, because it drives away darkness, dew etc. and brings comfort to all. Were there no Surya, the entire world will become inauspicious, enveloped in darkness. Just as Sun’s rays pervade the entire world, thousands of Parameswara’s ganas (armies), whose appearance is same as Parameswara’s, are spread in the earth region all around in many places and bless or curse people according to the merits and sins they commit. We douse the anger of Sri Parameswara of the form of the Sun’s zone and Rudraganas, who are spread everywhere in thousands, by songs of praise, prostration etc. May all of them bless us.
 
