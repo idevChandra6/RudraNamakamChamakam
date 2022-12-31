@@ -1,5 +1,6 @@
 # श्री रुद्र प्रश्नः | శ్రీ రుద్ర ప్రశ్నః | śrī rudra praśnaḥ
 
+I am compiling/editing this document as and when I learn Rudram. A lot of expositions exists, on internet, given by great people. I searched for word-to-word translations to understand the meaning. Among very few word-to-word translations [Sri Kanchi Kamakoti Peetham](https://www.kamakoti.org/kamakoti/stotra/Sri%20Rudram%20Anuvakam1.html) link is verbose. This document is based on this. I will keep editing this document as and when I learn.
 
 # Contents
 
